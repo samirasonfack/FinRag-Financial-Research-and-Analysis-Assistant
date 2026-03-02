@@ -20,5 +20,5 @@ FinRAG is a Retrieval-Augmented Generation (RAG) pipeline designed to act as an 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/finrag-assistant.git](https://github.com/yourusername/finrag-assistant.git)
-   cd finrag-assistant
+   git clone [https://github.com/samirasonfack/FinRag-Financial-Research-and-Analysis-Assistant.git](https://github.com/samirasonfack/FinRag-Financial-Research-and-Analysis-Assistant.git)
+  
